@@ -49,6 +49,10 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
+      name: 'About Me',
+      link: 'https://esherloon.com/aboutme/',
+    },
+    {
       name: 'GitHub',
       link: 'https://github.com/jinoo2005609',
     },
