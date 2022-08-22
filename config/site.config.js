@@ -45,7 +45,7 @@ module.exports = {
   protectedRoutes: ['/Private ISO'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:jinoo2005609@esherloon.com',
+  email: 'mailto:jinwoo@esherloon.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
