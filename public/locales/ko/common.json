@@ -31,6 +31,8 @@
   "Customise link": "링크 커스터마이즈",
   "Customised": "커스텀",
   "Customised and encoded": "커스팀 및 인코드됨",
+  "Copy selected files permalink": "선택된 파일 링크 복사",
+  "Copied selected files permalink.": "선택된 파일 링크를 복사했어요.",
   "Default": "기본",
   "Do not pretend to be the site owner": "소유자인 척하지 마세요.",
   "Don't worry, after storing them, onedrive-vercel-index will take care of token refreshes and updates after your site goes live.": "걱정하지 마세요. 보관한 후에 onedrive-vercel-index는 사이트가 활성화되면 토큰 새로고침 및 업데이트를 처리해요.",
